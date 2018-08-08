@@ -1,0 +1,41 @@
+h2 {
+    color: red
+}
+.carre
+{
+    list-style-type: square;
+}
+.tabulation { 
+    margin-left: 40px;
+} 
+.centrer{
+    text-align: center;
+}
+table, th, td {
+    border: 2px solid royalblue;
+    border-collapse: collapse;
+    background-color: aliceblue;
+    text-align: center;  
+}
+table th {
+    background-color: lavender;
+    width: 200px;
+    height: 50px;
+}
+table td {
+ 
+    width: 200px;
+    height: 50px;
+}
+body {
+    background-image: url("/images/image.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;
+    background-size: cover;
+}
+div{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 600px;
+    height: 400px;
+}
